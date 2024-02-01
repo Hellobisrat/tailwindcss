@@ -18,3 +18,9 @@ borders
  border-right-width border-r
  border-top zero border-t-0
  border-bottom border-b
+
+ $ npx tailwindcss init --full (to add tailwind.config.js)
+ to extend the root value it can customize the fontsize
+
+object-cover - to avoid image streching
+w-full- to fill the image whole container
